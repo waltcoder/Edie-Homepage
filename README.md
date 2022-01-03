@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Edie Homepage}</h1>
+<h1 align="center">Edie Homepage</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -31,7 +31,6 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -77,13 +76,6 @@ $ npm install
 $ npm start
 ```
 
-## Acknowledgements
-
-<!-- This section should list an:::EWFWE:WWWWWW:QWQarticles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 

@@ -87,6 +87,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https:www.waltcoder.dev)
-- GitHub [@your-username](https:www.github.com/waltcoder)
-- Twitter [@your-twitter](https:www.twitter.com/waltcoder)
+- Website [waltcoder.dev](https:www.waltcoder.dev)
+- GitHub [@waltcoder](https:www.github.com/waltcoder)
+- Twitter [@waltcoder](https:www.twitter.com/waltcoder)
